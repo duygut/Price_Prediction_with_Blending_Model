@@ -9,22 +9,20 @@ There are some techniques included in this notebook like box-cox transformation,
 This notebook has 5 topics:
 
 * Exploratory Analysis
-
 * Feature Engineering
-
 * Hyperparameter Tunning
-
 * Model Building
-
 * Model Results
 
 ## Dependencies
 
-Pandas
-NumPy
-SciKit-Learn
-Seaborn
-Matplotlib
-XGBoost
-mlxtend
-math
+* Pandas
+* NumPy
+* SciKit-Learn
+* Seaborn
+* SciPy
+* Matplotlib
+* XGBoost
+* LGBM
+* mlxtend
+* math
