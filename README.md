@@ -1,4 +1,4 @@
-# Price_prediction_with_blending_model
+# Price prediction with blending model
 
 House Prices dataset has the advantage to use advanced regression techniques and using experimental feature engineering techniques with 79 explanatory variables.
 
