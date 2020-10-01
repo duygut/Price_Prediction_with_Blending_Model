@@ -1,4 +1,4 @@
-# Price_Prediction_with_Blending_Model
+# Price_prediction_with_blending_model
 
 House Prices dataset has the advantage to use advanced regression techniques and using experimental feature engineering techniques with 79 explanatory variables.
 
@@ -26,3 +26,7 @@ This notebook has 5 topics:
 * LGBM
 * mlxtend
 * math
+
+
+Data can be download from below link
+https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data
